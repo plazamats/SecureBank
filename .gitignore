@@ -1,0 +1,14 @@
+target/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.idea/
+*.iml
+.vscode/
+.env
+*.log
+*.class
+.DS_Store
